@@ -1,3 +1,3 @@
 <?php 
-	$db = mysqli_connect('127.0.0.1:3306', 'person09056', '', 'users');
+	$db = mysqli_connect('127.0.0.1:3306', '*******', '*******', 'users');
 ?>
